@@ -2,7 +2,7 @@
 
 This is a custom football widget designed for use with the Scriptable app, leveraging the Fotmob API to showcase the next upcoming match of two specified teams. Currently, the widget is available exclusively in a compact, small-size format for efficient use of screen space
 
-###Usage
+### Usage
 1. Go to https://www.fotmob.com.
 2. Choose your teams and copy the team ids
 3. Edit the team ids in the script
